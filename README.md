@@ -10,4 +10,4 @@ I used a Sabrent powered 4-port USB port to plug the tested WiFi adapters into t
 
 ## NOT Compatible
 - Alfa AWUS036ACS
- - I tried this card in several ways and couldn't get it to work.  In contrast, the Panda PAU06 and RALINK RT5370 are plug N play (instantly recognized, useable, and connect to WiFi).  Avoid this card
+    - I tried this card in several ways and couldn't get it to work.  In contrast, the Panda PAU06 and RALINK RT5370 are plug N play (instantly recognized, useable, and connect to WiFi).  Avoid this card
