@@ -1,6 +1,8 @@
 # rpi-wifi-adapters-list
 List of WiFi adpaters that are Plug n Play Raspberry Pi compatible (and some to avoid)
 
+Sabrent powered 4-port USB port was plugged into the USB OTG port of the Raspberry Pi Zero W (running RPi OS inside GamePi20 case).
+
 ** Compatible
 *Tested successfully using Raspberry Pi Zero W running Raspberry Pi OS (RetroPie / GamePi20 edition)*
 - Panda PAU06
